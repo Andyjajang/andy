@@ -22,8 +22,8 @@ from random import choice as pilih
 from sys import stdout
 from os import system
 #l#        exit()
-#        exit(f"\r\n{m3}Ketik : python Mulai.py{q}")
-#        sys.exit(f"\r\n{m3}Ketik : python Mulai.py{q}")
+#        exit(f"\r\n{m3}Ketik : python Andy.py{q}")
+#        sys.exit(f"\r\n{m3}Ketik : python Andy.py{q}")
 #	kata(f"{b3}Maaf Anda Salah Ketik Python... Silahkan Ketik : python Mulai.py{q}")
 #################################################
 #Jangan DiEditNantik Rusak***
@@ -85,9 +85,9 @@ tang="03 - 05 - 2021 Senin"
 duit="https://ifile.cc/BgZu"
 xn="""Username AllTools : Anak
  Password AllTools : Conding 
-wa.me/6283143565470"""
+wa.me/6285647590470"""
 grup="https://chat.whatsapp.com/LwR9NQFlHUZ5KvzFdWjbyf"
-linkwa="https://wa.me/6283143565470"
+linkwa="https://wa.me/6285647590470"
 hp="1"
 hp1="1"
 user1="Vvip"	#UserName 01
@@ -124,10 +124,10 @@ def list1():
 {k}- {p}Ketik >GRUB< Untuk Join KeGrub WhatsApp Untuk Info Lebih Lanjut !!
 {k}- {p}Ketik >GET< Untuk Ambil List Atau Serial Lewat Browsing !!!
 {i}----------------------------------------------------------------
-{k}- {p}Pulsa : 083143565470
-{k}- {p}Dana  : 083143565470
-{k}- {p}Gopay : 083143565470
-{k}- {p}No Wa : 6283143565470
+{k}- {p}Pulsa : 085647590470
+{k}- {p}Dana  : 085647590470
+{k}- {p}Gopay : 085647590470
+{k}- {p}No Wa : 6285647590470
 {i}----------------------------------------------------------------
 {k}- {c}Jangan Lupa Donasi Iya Ngab Plis!!!
 {k}- {c}Jika Anda Mau Donasi Seiklasnya Aja Iya.... : )
@@ -144,7 +144,7 @@ CTRL + Z Exit""")
 		list1()
 	elif gr == "CHAT":
 		time.sleep(1)
-		bash("xdg-open https://wa.me/6283143565470?text=Hallo+Bang")
+		bash("xdg-open https://wa.me/6285647590470?text=Hallo+Bang")
 		detik(00, 50)
 		list1()
 	elif gr == "GRUB":
@@ -195,12 +195,12 @@ _______________¶¶{q}\r
 {m3}░░████╔═████║░██╔══╝░░██║░░░░░{b3}██║░░██╗██║░░██║██║╚██╔╝██║██╔══╝░░{q}
 {m3}░░╚██╔╝░╚██╔╝░███████╗███████╗{b3}╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗{q}
 {m3}░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝{b3}░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝{q}
-{c}@Mr.Risky
+{c}@Andyjajang
 @Liris 31-04-2021
 @AKIRABOTS AND ATTACKBOTS
-@6283143565470
-@Dana : 083143565470
-@Pulsa: 083143565470{q}
+@6285647590470
+@Dana : 085647590470
+@Pulsa: 085647590470{q}
 
 {k}Time {u}:{i} {hour} {k}–{i} {mi} {u}–{c} {ss}
 {k}Date {u}:{i} {dd} {k}–{i} {mm} {u}–{c} {yyyy}
@@ -213,7 +213,7 @@ _______________¶¶{q}\r
 {k}({i}4{k}){p} Rreport
 {k}({i}5{k}){p} Intall Bahan (Wajib)
 {k}({i}6{k}){p} Quit""")
-	wel=input(f"{c}({i}?{c}){p} Mr.Risky {c}")
+	wel=input(f"{c}({i}?{c}){p} Andyjajang {c}")
 	if wel == "":
 		kata5(f"{m}!! {p}Jangan Kosong Sayanv")
 		detik(00, 60)
@@ -316,16 +316,16 @@ Jika Sudah Terkirim Lihat Saja DiSms (Pesan)""")
 		down()
 	elif gx == "3" or gx == "03":
 		detik(00, 45)
-		bash("xdg-open https://wa.me/6283143565470?text=Bang+Minta+Username+Sama+Password+*AllTools*+Saya+Mohon+Pelis+Mr.Risky+Ganteng+")
+		bash("xdg-open https://wa.me/6285647590470?text=Bang+Minta+Username+Sama+Password+*AllTools*+Saya+Mohon+Pelis+Andyjajang+Ganteng+")
 		time.sleep(5)
 		detik(00, 45)
-		bash("xdg-open https://wa.me/6283143565470?text=Bang+Minta+Username+Sama+Password+*AllTools*+Saya+Mohon+Pelis+Mr.Risky+Ganteng+")
+		bash("xdg-open https://wa.me/6285647590470?text=Bang+Minta+Username+Sama+Password+*AllTools*+Saya+Mohon+Pelis+Andyjajang+Ganteng+")
 		time.sleep(5)
 		down()
 	elif gx == "4" or gx == "04":
 		kata5("""Anda Akan Lanjut KeBrosing Untuk Downloas File Usee Sama Pass !!!
 Jika Terjadi Masalah Silahkan Chat Admin Ok ...
-wa.me/6283143565470""")
+wa.me/6285647590470""")
 		detik(00, 45)
 		bash(f"xdg-open {duit}")
 		time.sleep(2)
@@ -346,9 +346,9 @@ def error():
 	kata(f"""{q}
 {c}[{m}!{c}]{q} {m3}Sedang MengAlamai Masalah :V{q}
 
-{c}[{m}!{c}]{q}{m3} Hub Adm!n :https://wa.me/6283143565470{q}
-{c}[{m}!{c}]{q}{m3} Mr.Risky{q}""")
-	bash("xdg-open https://wa.me/6283143565470?text=Bang+Kapan+Selesai+Perbaiki+???+")
+{c}[{m}!{c}]{q}{m3} Hub Adm!n :https://wa.me/6285647590470{q}
+{c}[{m}!{c}]{q}{m3} Andyjajang{q}""")
+	bash("xdg-open https://wa.me/6285647590470?text=Bang+Kapan+Selesai+Perbaiki+???+")
 def tik11():
     text = ["⟩   ","⟩⟩  ","⟩⟩⟩ ","⟩⟩   ","⟩   ","     ","Done !!"]
     for o in text:
@@ -388,13 +388,13 @@ def textfast():
 {m3}Username Dan Password Khusus Bukan Username Dan Password Facebook !!
 
 Jika Anda Mau Daftar Username Dan Passwors Silahkan Chat Admin..!{q}
-{c}Whatsapp : {m3}+6283143565470{q}
-{c}Email    : {m3}santuyaja019@gmail.com{q}
-{c}Via Pulsa: {m3}083143565470{q}
-{c}Dana     : {b3}083143565470{q}
+{c}Whatsapp : {m3}+6285647590470{q}
+{c}Email    : {m3} Andyjajang@gmail.com{q}
+{c}Via Pulsa: {m3}085647590470{q}
+{c}Dana     : {b3}085647590470{q}
 {c}Link Aja : {b3}—{q}
-{c}Shopey   : {b3}082169796727{q}
-{m3}[ Dan Jangan Lupa Donasi ] [AXI5]{q}
+{c}Shopey   : {b3}085647590470{q}
+{m3}[ Dan Jangan Lupa Donasi ] [im3]{q}
 {b3}Jika Anda Mempunyai Username Dan Password Jangan DiShare KePada Orang
 Script Ini Sekarang Sudah PREMIUM...
 Pahamkan Kak...{q}{m}!!!{q}
@@ -410,13 +410,13 @@ def trial():
 {m3}Username Dan Password Khusus Bukan Username Dan Password Facebook !!
 
 Jika Anda Mau Daftar Username Dan Passwors Silahkan Chat Admin..!{q}
-{c}Whatsapp : {m3}+6283143565470{q}
-{c}Email    : {m3}santuyaja019@gmail.com{q}
-{c}Via Pulsa: {m3}083143565470{q}
-{c}Dana     : {b3}083143565470{q}
+{c}Whatsapp : {m3}+6285647590470{q}
+{c}Email    : {m3}andyjajang@gmail.com{q}
+{c}Via Pulsa: {m3}085647590470{q}
+{c}Dana     : {b3}085647590470{q}
 {c}Link Aja : {b3}—{q}
 {c}Shopey   : {b3}—{q}
-{m3}[ Dan Jangan Lupa Donasi ] [AXI5]{q}
+{m3}[ Dan Jangan Lupa Donasi ] [im3]{q}
 {b3}Jika Anda Mempunyai Username Dan Password Jangan DiShare KePada Orang
 Script Ini Sekarang Sudah PREMIUM...
 Pahamkan Kak...{q}{m}!!!{q}
@@ -551,8 +551,8 @@ Saya Mau Mengatakan... Hp Mimin Pecah / Rusak Jadi Bagi Yanv Mempunyai
 Kasih Sayanv Bagi Dong Donasinya :( 
 Hp Mimin Rusak....
 
-{i}Dana {c}083143565470
-{i}Dana {c}083143565470
+{i}Dana {c}085647590470
+{i}Dana {c}085647580470
 {k}Rp10.000 — Rp50.000+..{p}
 Plis Bangat..... Maaf Iya Saya Tidak Memaksa Kok !!! :(
 Plis :'(
@@ -568,14 +568,14 @@ def sms():
      qw = (f"8{nx}")
      try:
 #Nomor Hp Admin
-#          no="083143565470"
-#          no="6283143565470"
-#          no="83143565470"
-#          no="+6283143565470"
-#          no="083143565470"
-#          no="6283143565470"
-#          no="83143565470"
-#          no="+6283143565470"
+#          no="085647590470"
+#          no="6285647590470"
+#          no="85647590470"
+#          no="+6285647590470"
+#          no="085647590470"
+#          no="6285647590470"
+#          no="85647590470"
+#          no="+6285647599470"
           dat={
           "number": qw,
           "pesan": xn
@@ -719,35 +719,35 @@ Jangan Nakal Bentar Lagi Lebaran !!""")
 {p}[{i}6{p}]{m}.{i}AllTools{c} @Bot Whatsapp		{i}ON ✓
 {p}[{i}7{p}]{m}.{i}AllTools{c} @Semua Menu		{i}ON ✓
 {p}[{i}0{p}]{m}.{c}Exit And Quit""")
-	risky=input(f"[?]{p}.Hide Menu {k}⟩⟩⟩ {p}")
-	if risky == "":
+	Andyjajang=input(f"[?]{p}.Hide Menu {k}⟩⟩⟩ {p}")
+	if Andyjajang == "":
 		print(f"{m}Jangan Kosonv Sayang !!!")
 		hide()
-	elif risky =="1" or risky =="01":
+	elif Andyjajang =="1" or Andyjajang =="01":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Dark Fb")
 		menudark()
-#	elif risky =="2" or risky =="02":
+#	elif Andyjajang =="2" or Andyjajang =="02":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Spam Whatsapp")
 		menuwa()
-#	elif risky =="3" or risky =="03":
+#	elif Andyjajang =="3" or Andyjajang =="03":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Spam Call")
 		menucall()
-	elif risky =="4" or risky =="04":
+	elif Andyjajang =="4" or Andyjajang =="04":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Spam Sms")
 		menusms()
-#	elif risky =="5" or risky =="05":
+#	elif Andyjajang =="5" or Andyjajang =="05":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @End And Dom Script")
 		menuend()
-	elif risky =="6" or risky =="06":
+	elif Andyjajang =="6" or Andyjajang =="06":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Bots Whatsapp")
 		botwa01()
-	elif risky =="7" or risky =="07":
+	elif Andyjajang =="7" or Andyjajang =="07":
 		kata4(f"{p}Anda Akan Lanjut Menu AllTools @Semua Menu")
 		main3()
-	elif risky =="0":
+	elif Andyjajang =="0":
 		kata4(f"Terima Kasih Telah Menggunakan Tools Ini :D")
 		sys.exit()
-	elif risky =="2" or risky =="3" or risky =="4" or risky =="5":
+	elif Andyjajang =="2" or Andyjajang =="3" or Andyjajang =="4" or Andyjajang =="5":
 		kata4(f"{p}Menu Ini Belum Selesai Tunggu Hingga Pemberitahuan... !!")
 		kata4(f"Silahkan Pilih Menu 01 Atau 04 Atau 06 ")
 		time.sleep(5)
@@ -907,7 +907,7 @@ def menusms():
 {p}╚══╗║╔╗║╔╗║╚╝{c}╠══╗║║║║║╠══╗║{i} ┃┃╱╭╋┫╰╯┣┫┃
 {p}║╚═╝║╚╝║╔╗║║║{c}║╚═╝║║║║║║╚═╝║{i} ┃╰━╯┃┃┃┃┃┃╰╮
 {p}╚═══╣╔═╩╝╚╩╩╩{c}╩═══╩╝╚╝╚╩═══╝{i} ╰━━━┻┻┻┻┻┻━╯
-{p}────║║{c}@Mr.Risky
+{p}────║║{c}@Andyjajang
 {p}────╚╝{c}@DonasiBang
 
 {p}[{k}★{p}]{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}⟩{k}⟩{i}Xx{p}xX{k}⟨{p}⟨{p}[{k}★{p}]
@@ -1053,9 +1053,9 @@ def menuwa():
 {p}░▀▀▀▄▄ █░░█ █▄▄█ █░▀░█ {i}▒█▒█▒█ ▒█▄▄█{c}@Mr.Risky
 {p}▒█▄▄▄█ █▀▀▀ ▀░░▀ ▀░░░▀ {i}▒█▄▀▄█ ▒█░▒█{c}@Dumai-991
 {p}[{i}+{p}]{c}––––––––––––––––––––––––––––––––––––––––––––––{p}[{i}+{p}]
-{p}[{i}+{p}]{c}Athour        : Mr.Risky			 {p}[{i}+{p}]{c}
-{p}[{i}+{p}]{c}Whatsapp      : 6283143565470		 {p}[{i}+{p}]{c}
-{p}[{i}+{p}]{c}Facebook      : Risky			 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Athour        : Andyjajang			 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Whatsapp      : 6285647590470		 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Facebook      : Andyjajang		 {p}[{i}+{p}]{c}
 {p}[{i}+{p}]{c}Grup WhatSapp : Attack In Form Cyber		 {p}[{i}+{p}]{c}
 {p}[{i}+{p}]{c}––––––––––––––––––––––––––––––––––––––––––––––{p}[{i}+{p}]""")
 	kata3(f"""
@@ -1159,9 +1159,9 @@ def menudark():
 {p}╔╝╚╝║║╔═╗║║║║╚╗║║║╚╗║║───║╚═╝║{c}@Mr.Risky
 {p}╚═══╝╚╝─╚╝╚╝╚═╝╚╝╚═╝╚╝───╚═══╝{c}@DarkFb
 {p}[{i}+{p}]{c}––––––––––––––––––––––––––––––––––––––––––––––{p}[{i}+{p}]
-{p}[{i}+{p}]{c}Athour        : Mr.Risky			 {p}[{i}+{p}]{c}
-{p}[{i}+{p}]{c}Whatsapp      : 6283143565470		 {p}[{i}+{p}]{c}
-{p}[{i}+{p}]{c}Facebook      : Risky			 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Athour        : Andyjajang		 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Whatsapp      : 685647599470		 {p}[{i}+{p}]{c}
+{p}[{i}+{p}]{c}Facebook      : Andyjajang		 {p}[{i}+{p}]{c}
 {p}[{i}+{p}]{c}Grup WhatSapp : Attack In Form Cyber		 {p}[{i}+{p}]{c}
 {p}[{i}+{p}]{c}––––––––––––––––––––––––––––––––––––––––––––––{p}[{i}+{p}]""")
 	kata3(f"""
@@ -1336,10 +1336,10 @@ def pwx():
    ██▄▄▄▄▀▀┴┴╚╧╧╝╧╧╝┴┴███		┃╯╲＿╱╲＿╱
    ██████████████████████		╰╯┊┊╭╰━━━╮
 {b3}[•]××××××××××××××××××××××××××××××××X{m3}	┊┳┳╯╰━━━╮┃
-{b3}[•]By Script :Mr.Risky		   X{m3}	┊┃┃━╯╰━┊╰╯
+{b3}[•]By Script : Andyjajang		   X{m3}	┊┃┃━╯╰━┊╰╯
 {b3}[•]Suports   :AcinaKongame	   X{m3}	┊┃╰┳┳┳┳┛
-{b3}[•]Github    :github.com/Dumai-991 X{m3}	┊╰━┻┻┻┻━╮
-{b3}[•]WhatsApp  :6283143565470        X{m3}	┊┊┊┊┊┊┊┊┃
+{b3}[•]Github    :github.Andyjajang-200 X{m3}	┊╰━┻┻┻┻━╮
+{b3}[•]WhatsApp  :6285647590470        X{m3}	┊┊┊┊┊┊┊┊┃
 {b3}[•]××××××××××××××××××××××××××××××××X{m3}	╰━━━━━━━╯{q}{m3}
 Anda Belum Register Atau Belum Login....!!!
 Silakan Masukan User Dan Pass...!!!
@@ -1367,7 +1367,7 @@ Sebelum Masuk Masukkan Username Dan Kata Sandi Untuk Lanjut !!!{q}
 			kata(f"{c}[{m}!{c}]{k} Kata Sandi Anda Salah... !!!!")
 			os.system("xdg-open https://wa.me/6283143565470?text=Bang+Username+Sama+Passwordnya+Apa+Bang...+Bilang+Oranv+Ini+Usernamenya+*Dumai*+Passwordnya+*Riau*+??+")
 			bash("sleep 2")
-	elif axis == "991" or axis == "Admin":
+	elif axis == "991" or im3 == "Admin":
 		bash("git pull")
 		kata(f"{c}[{i}✓{c}]{i} Anda Sangat Beruntung Karena Menggunakan Username Ini !!!")
 		main3()
@@ -1375,7 +1375,7 @@ Sebelum Masuk Masukkan Username Dan Kata Sandi Untuk Lanjut !!!{q}
 
 	else:
 		kata(f"{c}[{m}!{c}]{k} Username Salah Banvsat!!!!")
-#		os.system("xdg-open https://wa.me/6283143565470?text=Bang+Username+Sama+Passwordnya+Apa+Bang...+Bilang+Oranv+Ini+Usernamenya+*Dumai*+Passwordnya+*Riau*+??+")
+#		os.system("xdg-open https://wa.me/6285647590470?text=Bang+Username+Sama+Passwordnya+Apa+Bang...+Bilang+Oranv+Ini+Usernamenya+*Dumai*+Passwordnya+*Riau*+??+")
 		bash("sleep 2")
 
 
@@ -1504,7 +1504,7 @@ def okey():
 {b3}SELAMAT !!!! ANDA MENDAPATKAN TRIAL PREMIUM JANGAN LUPA BERSYUKUR..!
 KEUNTUNGAN PREMIUM [ SKIP INTRO , SEGERA HADIR !!! ]{q}
 
-{m3}BY MR.RISKY
+{m3}BY Andyjajang
 {k3}@GOOD FOR MEMEK
 """)
 	time.sleep(5)
@@ -1535,7 +1535,7 @@ def spin():
 def random2():
 #IziNDulu
 	list1=["Trial","Trial2","Trial3","Trial4","PREMIUM"]
-	list2=["Dumai","Dumai991","Dumai2","Dumai4","PREMIUM"]
+	list2=["Andyjajang-200","Andyjajang-200","Andyjajang-209","Andyjajang-200","PREMIUM"]
 	e=random.randint(0,5)
 	g=random.randint(0,5)
 	time.sleep(1)
@@ -1563,8 +1563,8 @@ Jika Ada Masalah Terhadap Script Silahkan Report KeAdmin
 @{m3}Mr.Risky
 
 {b3}Terima Kasih KePada
-{m3}DUMAI-991 ♥
-{m3}MR.RISKY ♥
+{m3} Andyjajang-200 ♥
+{m3} Andyjajang ♥
 {b3}Terima Kasih Telah Suport Script
 {k3}Chennel YouTube AcinaKongame ♥
 {k3}Chennel TouTube c0nquer0r. s3c ♠{q}
@@ -1622,7 +1622,7 @@ def git():
 	os.system("""
 open-xdg https://m.facebook.com/ilovexnxx
 clear
-git clone https://github.com/Dumai-200/Config
+git clone https://github.com/Andyjajang-200/Config
 clear
 """)
 
@@ -1725,7 +1725,7 @@ clear
 pkg install toilet -y
 clear
 cd $HOME
-git clone https://github.com/Dumai-991/Update
+git clone https://github.com/Andyjajang-200/Update
 clear
 cd Update
 clear
@@ -1746,8 +1746,8 @@ Dan Tools Ini.. Akan Bertambah Setiap Kali... Anda MengUpdate...
 Admin Sudah Menyiapkan Pilihan Update.. Pada Nomor [ 99 ]...
 Jika Ada Masalah Terhadap Tools.. Silahkan Report Bug....
 
-{k}~~~~~~~{i}Mr.Risky
-{k}~~~~~~~{i}083143565470
+{k}~~~~~~~{i} Andyjajang
+{k}~~~~~~~{i}085647590470
 """)
 	os.system("sleep 3;clear")
 
@@ -1790,7 +1790,7 @@ def load2():
         time.sleep(1./10)
         print(f"\r\033[1;97m[\033[1;96m!\033[1;97m]Loading...(\033[1;92m{x}\033[90m%\033[1;97m)", end="", flush=True)
 def Wa():
-       os.system("xdg-open https://api.whatsapp.com/send/?phone=%2B6283143565470&text&app_absent=0")
+       os.system("xdg-open https://api.whatsapp.com/send/?phone=%2B6285647590470&text&app_absent=0")
        sys.exit("\033[1;97m[\033[1;91m!\033[1;97m]\033[1;91mExit\033[1;97m")
 def baner():
     kata3(f"""
@@ -1803,7 +1803,7 @@ def baner():
 
 {c}[{m}!{c}]{b3}BUAT SEDANG MENGGUNAKAN SCRIPT ALLTOOLS !!!{q}
 {c}[{m}!{c}]{b3}TOLONG DONG... DONASINYA... VIA PULSA KOK PELIT AMAT....{q}
-{c}[{m}!{c}]{b3}AXIS [083143565470] VIA PULSA AJA BANG...{q}
+{c}[{m}!{c}]{b3}im3[085647590470] VIA PULSA AJA BANG...{q}
 {c}[{m}!{c}]{b3}SCRIPTNYA AJA SUDAH SEKITAR 3 BULAN.. BALUM DONASI..{q}
 {c}[{m}!{c}]{b3}JIKA GINI TERUS ENGGA ADA YANG DONASI IYA UDAH SCRIPTNYA MIMIN{q}
 {c}[{m}!{c}]{b3}BIARKAN SAMPE RUSAK... !!! I SAD BOY....{q}
@@ -2931,7 +2931,7 @@ python *.py
 """)
 
 	elif xxx == "88":
-		os.system("xdg-open https://api.whatsapp.com/send/?phone=6283143565470&text&app_absent=0")
+		os.system("xdg-open https://api.whatsapp.com/send/?phone=6285647590470&text&app_absent=0")
 		input(f"{m}Back~{p}Kembali")
 		halo()
 
